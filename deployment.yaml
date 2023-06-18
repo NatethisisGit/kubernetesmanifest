@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: dockernatehere/test_one:4
+      - image: dockernatehere/test_one:5
         name: flaskdemo
         resources: {}
 status: {}
